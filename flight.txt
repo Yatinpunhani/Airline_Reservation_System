@@ -1,0 +1,17 @@
+|TICKET INFORMATION:
+
+Ticket: HF893
+Name: yatin pun
+Phone: 7676
+Address: yiu
+Passport Number: 
+Origin: DELHI
+Destination: PUNE
+Food: Vegetarian
+Number of Seats: 2
+Class: Business
+Date of departure: 123456
+Time: 4.00 PM
+Bill(in rupees): 52854/-
+
+|STATUS CONFIRMED
